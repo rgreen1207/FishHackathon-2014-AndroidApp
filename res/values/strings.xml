@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">Boats</string>
+   <string name="action_settings">Settings</string>
+   <string name="hello_world">Hello world!</string>
+   <string name="title_activity_person">Person</string>
+   
+   <string name="vessels_prompt">Vessel Type</string>
+   
+   <string-array name ="Fishing_Vessels">
+       <item>Motorized</item>
+       <item>Paddle</item>
+   </string-array>
+       
+       
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item0" type="integer" name="value0">0</item>
+    <item android:id="@+id/item1" type="integer" name="value1">0</item>
+    <item android:id="@+id/item2" type="integer" name="value2">0</item>
+    <item android:id="@+id/item3" type="integer" name="value3">0</item>
+    
+</resources>
